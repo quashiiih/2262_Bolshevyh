@@ -1,4 +1,4 @@
-### ������ 1. Kisa and Osya was here
+### Задание 1. Простые числа
 ```py
 def is_prime(num):
     if num < 2:
@@ -20,7 +20,7 @@ while cnt < n:
 print(res)
 ```
 
-### ������ 2. ��� ���� ���
+### Задание 2. Мама Дяди Федора
 ```py
 n = int(input())
 num = list(map(int, input().split()))
@@ -35,7 +35,7 @@ for a in range(n):
 print(res)
 ```
 
-### ������ 3. ������ �� ������
+### Задание 3. Удаление буквы
 ```py
 from string import ascii_lowercase
 
@@ -53,12 +53,6 @@ res = w.replace(chr, "")
 print(res)
 ```
 
-### ������ 4. ������ � �����
-```py
+### Задание 4. Качество пароля
 
-```
-
-### ������ 5. ����� �� ���������
-```py
-
-```
+### Задание 5. Игра в Дурака
